@@ -57,5 +57,11 @@ endmodule
 ```
 ### OUTPUT:
 ### RTL Logic:
+![romrtl](https://user-images.githubusercontent.com/94219582/172901344-16c4dc82-4ab3-423b-a8e1-b58b3489c126.png)
+### Timing Diagram:
+<img width="961" alt="de12" src="https://user-images.githubusercontent.com/94219582/172901611-99399852-a4a0-4195-a060-3dfbe7b173ab.png">
 
+### RESULT:
+
+Thus PROM using verilog is implemented and its output is validated.
 
